@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-PINN-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 Project Overview
 This repository contains the code and methodology for predicting the **Performance Ratio (PR)** of industrial photovoltaic (PV) systems using a **Physics-Informed Multilayer Perceptron (PINN)**. 
